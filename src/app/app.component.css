@@ -1,0 +1,10 @@
+.site-navigation ul,   
+.site-navigation li {  
+ margin: 0;   
+ padding: 0;  
+}  
+.site-navigation li {  
+ font-size: large;
+ display: inline-block;  
+ margin: 1.4em 1em 1em 1em;  
+}  
